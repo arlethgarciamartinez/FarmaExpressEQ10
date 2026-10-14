@@ -1,1 +1,0 @@
-# FarmaExpressEQ10
